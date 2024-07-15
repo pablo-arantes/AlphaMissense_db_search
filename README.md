@@ -7,9 +7,6 @@ AlphaMissense is a deep learning model that builds on the protein structure pred
 Here, we implemented an easy way to search and find a prediction for a specific variant or residue on your selected protein.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/AlphaMissense_db_search/blob/main/AlphaMissense_db_search.ipynb)  - `Search on the AlphaMissense database using the Uniprot ID of your selected protein on Google Colab `
-<!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/pablo-arantes/AlphaMissense_db_search/main/AlphaMissense_db_local.ipynb)  - `Search on the AlphaMissense database using the Uniprot ID of your selected protein locally`
-<!-- END LATEST DOWNLOAD BUTTON -->
 
 For more information about the method, please, read [AlphaMissense 2023 publication](https://www.science.org/doi/10.1126/science.adg7492).
  
